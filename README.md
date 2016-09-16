@@ -1,2 +1,6 @@
 # config
-configuration files
+
+Configuration files:
+
+1. .vimrc, .vim/ftplugin
+2. .bashrc
